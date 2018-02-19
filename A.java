@@ -1,7 +1,7 @@
 class A{
  public static void main(String arg[]){
      for(int i =0 ; i<10; i++){
-	System.out.println("Mahesh Khade.");
+	System.out.println("Mahesh Khade."+i);
 	}
 }
 
